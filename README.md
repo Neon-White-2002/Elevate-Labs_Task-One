@@ -6,9 +6,9 @@
 
 ## Outcome:  
 ### Step One: First, Check your Local IP-Address  
-Command: ifconfig 
+### Command: ifconfig 
 <img width="1920" height="1050" alt="Screenshot From 2025-08-04 13-25-08" src="https://github.com/user-attachments/assets/1b42d214-744c-450f-81d6-863802c7927f" />
-Result: Local IP-Address: 192.168.1.13 & Local IP-Range: 192.168.1.0 
+### Result: Local IP-Address: 192.168.1.13 & Local IP-Range: 192.168.1.0 
  
 ### Step Two: Now, we will Discover various HOST, connected in Local-Network 
 ### Command: netdiscover -r 192.168.1.0/24 
